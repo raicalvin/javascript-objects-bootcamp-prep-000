@@ -1,5 +1,5 @@
 var playlist = {
-  'Selena': 'Come and Get It'
+  artistName: 'Come and Get It'
 };
 
 
