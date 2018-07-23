@@ -1,5 +1,5 @@
 var playlist = {
-  'Selena Gomez': 'The Heart Wants What it Wants'
+  artist: song
 };
 
 function updatePlaylist(obj, artist, song) {
