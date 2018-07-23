@@ -11,3 +11,5 @@ function removeFromPlaylist(obj, artist) {
   delete obj.artist;
   return obj;
 }
+
+console.log(playlist['Selena Gomez'])
